@@ -9,6 +9,10 @@ import {
   useQuery,
 } from "@tanstack/react-query";
 
+export const metadata: Metadata = {
+  title: "Gabriel Biscaia's Weather Forecast",
+};
+
 const inter = Inter({ subsets: ["latin"] });
 
 // export const metadata: Metadata = {
