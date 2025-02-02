@@ -10,8 +10,9 @@ Create a weather forecast app that displays the weather for a given location.
 
 ## 🧰 Technologies
 - Next.js
-- Tailwind CSS
 - React
+- Tailwind CSS
+- TypeScript
 
 ## 📝 Requirements
 - Node.js
