@@ -35,8 +35,5 @@ Create a weather forecast app that displays the weather for a given location.
    npm run dev
    ```
 
-2. The API will be available at `http://localhost:3000`
+2. The APP will be available at `http://localhost:3000`
 
-3. Access the Swagger documentation at `http://localhost:3000/api`
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
