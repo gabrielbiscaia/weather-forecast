@@ -28,8 +28,6 @@ Create a weather forecast app that displays the weather for a given location.
 
 ## ▶️ Running the Application
 
-## Run Project
-
 1. Start the NestJS application:
    ```bash
    npm run dev
